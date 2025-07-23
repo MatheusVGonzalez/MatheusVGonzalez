@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Matheus! </h2>
-<p>🎓 I'm a front-end student currently studying in Canada with a technical background in programming.  <br>
-💻 I have experience with Salesforce (Apex, LWC), JavaScript, and full-stack web development.  <br>
-🚀 I'm aiming to grow as a Fullstack Developer and build impactful digital solutions.
+<p>🎓 I'm a front-end student currently studying in Canada <br>
 </p>
 
 ###
