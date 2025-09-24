@@ -5,8 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVGonzalez&repo=portfolio-page,InventorySysPY&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVGonzalez&exclude_repo=django-projects,grocery-django&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
+
 
 ###
 
