@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVGonzalez&layout=compact&theme=dracula&hide=python" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVGonzalez&repo=portfolio-page,InventorySysPY&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
